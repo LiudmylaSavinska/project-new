@@ -1,0 +1,14 @@
+/Users/lucy/Documents/project new/bin/Debug/net8.0/project new
+/Users/lucy/Documents/project new/bin/Debug/net8.0/project new.deps.json
+/Users/lucy/Documents/project new/bin/Debug/net8.0/project new.runtimeconfig.json
+/Users/lucy/Documents/project new/bin/Debug/net8.0/project new.dll
+/Users/lucy/Documents/project new/bin/Debug/net8.0/project new.pdb
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.AssemblyInfoInputs.cache
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.AssemblyInfo.cs
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.dll
+/Users/lucy/Documents/project new/obj/Debug/net8.0/refint/project new.dll
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.pdb
+/Users/lucy/Documents/project new/obj/Debug/net8.0/project new.genruntimeconfig.cache
+/Users/lucy/Documents/project new/obj/Debug/net8.0/ref/project new.dll
